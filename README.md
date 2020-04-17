@@ -1,0 +1,2 @@
+# IgnoreRepo
+Learn Git Ignore
